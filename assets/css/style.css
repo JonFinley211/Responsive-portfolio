@@ -338,4 +338,7 @@ p {
     .row, .navbar {   
       flex-direction: column;
     }
-  }
+    
+    pre{
+      overflow-wrap: break-word;
+    }
